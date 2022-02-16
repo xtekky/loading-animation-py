@@ -1,5 +1,7 @@
 from time import sleep
 
+print('Credits: github.com/xtekky')
+      
 def loop():
     print("0%   ○○○○○", end="")
     sleep(0.9)
